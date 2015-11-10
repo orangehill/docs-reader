@@ -3,7 +3,7 @@
 A Laravel 5 based Markdown Documentation Reader inspired by Dayle Rees' [Docs Reader]{https://github.com/daylerees/docs-reader}.
 
 ## Demo
-[Laravel 5 Docs Reader Demo](http://docs-reader.orangehilldev.com)
+[Laravel 5 Docs Reader Demo](http://docs-reader.orangehilldev.com/docs)
 
 ## Installation
 
@@ -12,6 +12,8 @@ A Laravel 5 based Markdown Documentation Reader inspired by Dayle Rees' [Docs Re
 2) Run ```composer install``` from your projects root
 
 3) Edit ```config/docs.php``` file to set your configuration parameters.
+
+4) Create or edit ```.env``` file to set your environment parameters (even though the project doesn't use database).
 
 ## Usage
 
