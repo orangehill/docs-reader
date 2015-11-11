@@ -1,6 +1,6 @@
 # Laravel 5 Docs Reader
 
-A Laravel 5 based Markdown Documentation Reader inspired by Dayle Rees' [Docs Reader]{https://github.com/daylerees/docs-reader}.
+A Laravel 5 based Markdown Documentation Reader inspired by Dayle Rees' [Docs Reader](https://github.com/daylerees/docs-reader).
 
 ## Demo
 [Laravel 5 Docs Reader Demo](http://docs-reader.orangehilldev.com/docs)
