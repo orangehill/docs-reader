@@ -1,4 +1,4 @@
-# Laravel 5 Docs Reader
+# Laravel 5 Markdown Docs Reader
 
 A Laravel 5 based Markdown Documentation Reader inspired by Dayle Rees' [Docs Reader](https://github.com/daylerees/docs-reader).
 
